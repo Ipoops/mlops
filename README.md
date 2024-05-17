@@ -1,2 +1,1 @@
-# mlops
-this is a an example
+This is an example
